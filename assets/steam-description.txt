@@ -15,7 +15,7 @@ Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=864541681]We are the Imperial Navy[/url] for the graphics and other ship-related code
 [/list]
 [h2]Changelog[/h2]
-See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2964586088]Change Notes[/url]
 
 [h2]Source Code[/h2]
 Hosted on [url=https://github.com/corsairmarks/wh40k_shipset_terraform_station_aesthetic]GitHub[/url]
