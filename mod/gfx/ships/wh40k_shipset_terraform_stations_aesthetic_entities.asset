@@ -3,7 +3,6 @@
 entity = {
 	name = "wain_01_aesthetic_terraform_station_entity"
 	pdxmesh = "wain_01_3parts_frame_mesh"
-	# locator = { name = "part1" position = { 0 0 0 } }
 	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
 	default_state = "idle"
 	state = { name = "idle" animation = "idle" animation_blend_time = 4
