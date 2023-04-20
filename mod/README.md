@@ -8,7 +8,7 @@ Adds a terraform station definition with an active terraforming beam for graphic
 
 ## Compatibility
 
-Should work with practically everything that also works with the Unofficial fix We are the Imperial Navy and Aesthetic Terraform Stations.
+Should work with practically everything that also works with the We are the Imperial Navy and Aesthetic Terraform Stations.
 
 Built for Stellaris version 3.7 "Canis Minor."  Not compatible with achievements, but neither are the dependencies.
 
